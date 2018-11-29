@@ -7,6 +7,7 @@ import (
 
 func main() {
 	fmt.Println("Hello World.")
+	fmt.Println("Selam Dünya.")
 	fmt.Println(randToken(3))
 }
 
