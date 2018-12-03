@@ -2,7 +2,7 @@
 
 ## 01-mixed
 
-Print
+Print & crypto/rand
 
 ## 02-platform
 
